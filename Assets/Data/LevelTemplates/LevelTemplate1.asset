@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: LevelTemplate1
+  m_EditorClassIdentifier: Assembly-CSharp::LevelTemplate
+  Rooms:
+  - Room: {fileID: 8157862628423162027, guid: 6cd307f0d30ccb2438edde81a7c92b1d, type: 3}
+    Amount: 35
+  - Room: {fileID: 9145531589129469030, guid: e2402bfe282eaaf4eb4b40517fcaeb92, type: 3}
+    Amount: 25
+  - Room: {fileID: 8157862628423162027, guid: e42947cb2ef8ca049a73ce6fb6923a93, type: 3}
+    Amount: 15
+  - Room: {fileID: 9145531589129469030, guid: 04fa8eb4dc67f874faa33826b46dc440, type: 3}
+    Amount: 5
+  - Room: {fileID: 9145531589129469030, guid: 4065e16be4006cf4da04f7a8d3e92b8e, type: 3}
+    Amount: 15
+  Spread: 10
